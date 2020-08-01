@@ -1,4 +1,4 @@
-# React-Bootstarp-4-Website
+# React-Bootstrap-4-Website
 
 ## Introduction
 
@@ -45,7 +45,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## License 
 
-[MIT](https://github.com/web-codegrammer/Netflix-landing-Page/blob/master/LICENSE)
+[MIT](https://github.com/web-codegrammer/React-Bootstarp-4-Website/blob/master/LICENSE)
 
 Issued to ```Devanshu Vashishtha``` | All Rights Reserved | 2020
  
